@@ -34,3 +34,20 @@ h1 {
 .year-month-container h3 {
   font-size: 20px;
 }
+
+.calendar {
+  display: flex;
+  width: 400px;
+  height: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.calendar button {
+  background: none;
+  border: none;
+  font-size: 20px;
+}
+table {
+  text-align: center;
+}
